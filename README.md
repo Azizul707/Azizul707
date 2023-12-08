@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Azizul Hakim
-#### I am a Web Developer
+## Hi There 👋, My Name is **Azizul Hakim**
+### I am a **Web Developer**
 ![I am a Web Developer](https://i.ibb.co/zrrHfxD/front-end-developer-azizul-hakim-web-develper.png)
 
 Welcome to my professional space! I'm Azizul Hakim, a dedicated Web Developer with expertise in both front-end and back-end technologies. My passion lies in creating seamless and visually appealing web experiences using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
